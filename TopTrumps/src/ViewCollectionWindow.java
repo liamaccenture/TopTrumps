@@ -24,7 +24,7 @@ public class ViewCollectionWindow extends JFrame{
 		this.getContentPane().add(panel);
 		
 		home = new JButton();
-		home.setBounds(1000, 100, 100, 100);
+		home.setBounds(1300, 633, 100, 100);
 		home.setText("Home");
 		home.addActionListener(
 				new ActionListener(){
