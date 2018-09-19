@@ -7,7 +7,7 @@ public class Card {
 	int m_speed;
 	int m_handling;
 	int m_function;
-	int m_popularity;
+	int m_practicality;
 	int m_price;
 	
 	public Card(String name, String imageLoc) {
