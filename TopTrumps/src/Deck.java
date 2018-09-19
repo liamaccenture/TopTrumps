@@ -40,7 +40,7 @@ public class Deck {
 			System.out.println(deckOfCards.get(i).m_function);
 		}
 		for(int i = 0; i < deckOfCards.size(); i++) {
-			System.out.println(deckOfCards.get(i).m_popularity);
+			System.out.println(deckOfCards.get(i).m_practicality);
 		}
 		for(int i = 0; i < deckOfCards.size(); i++) {
 			System.out.println(deckOfCards.get(i).m_price);

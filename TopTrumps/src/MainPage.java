@@ -1,4 +1,5 @@
 import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -27,7 +28,7 @@ public class MainPage extends JFrame {
 		panel.setLayout(null);
 		this.getContentPane().add(panel);
 		
-/* Waiting for Lucky to make the viewCollectionWindow
+
   		viewCollectionButton = new JButton();
  
 		viewCollectionButton.setText("VIEW COLLECTION");
@@ -43,9 +44,9 @@ public class MainPage extends JFrame {
 				}
 				
 				
-				);
+				});
 		
-		panel.add(viewCollectionWindow);
+		panel.add(viewCollectionButton);
 
 /*		
 		playGameButton = new JButton();
