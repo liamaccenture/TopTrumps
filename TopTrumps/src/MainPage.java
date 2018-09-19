@@ -51,7 +51,7 @@ public class MainPage extends JFrame {
 		playGameButton = new JButton();
 		 
 		playGameButton.setText("PLAY GAME");
-		playGameButton.setBounds(0, 0, 600, 400);
+		playGameButton.setBounds(0, 0, 900, 700);
 		
 		playGameButton.addActionListener(
 				new ActionListener() {
