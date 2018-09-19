@@ -10,7 +10,7 @@ public class ViewCollectionWindow extends JFrame{
 	JButton home;
 	
 	public ViewCollectionWindow() {
-		this.setBounds(100, 100, 1200, 800);
+		this.setBounds(-7, 0, 1400, 733);
 		InitialiseComponents();
 		this.setVisible(true);
 		

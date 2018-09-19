@@ -6,7 +6,7 @@ public class MainScript {
 		Deck.CreateDeck();
 		Deck.PrintCardSize();
 		
-		GameWindow gameWindow = new GameWindow();
+		MainPage mainPage = new MainPage();
 		
 	}
 
